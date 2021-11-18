@@ -1,0 +1,3 @@
+﻿En matemáticas, el teorema de Pitágoras es una relación fundamental en geometría euclidiana entre los tres lados de un triángulo rectángulo. Afirma que el área del cuadrado cuyo lado es la hipotenusa (el lado opuesto al ángulo recto) es igual a la suma de las áreas de los cuadrados de los otros dos lados. Este teorema se puede escribir como una ecuación que relaciona las longitudes de los lados a, b y c, a menudo llamada ecuación pitagórica; Es la proposición más conocida entre las que tienen nombre propio en la matemática.1​
+
+El teorema de Pitágoras establece que, en todo triángulo rectángulo, la longitud de la hipotenusa es igual a la raíz cuadrada de la suma del área de los cuadrados de las respectivas longitudes de los catetos.
