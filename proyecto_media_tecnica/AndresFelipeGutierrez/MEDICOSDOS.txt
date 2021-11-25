@@ -1,0 +1,8 @@
+CREATE DATABASE Hospital;
+CREATE TABLE Medicos(
+	Usuario VARCHAR(30),
+	Clave VARCHAR(30),
+	IDMedico INT(12),
+	FechaNacimiento DATE,
+	PRIMARY KEY (Usuario)
+);
